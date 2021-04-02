@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/hitszwzh/lio_sam_ws/devel/include/**",
+                "/home/hitszwzh/MYNT-EYE-S-SDK/wrappers/ros/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/hitszwzh/lio_sam_ws/src/lio_sam/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
